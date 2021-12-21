@@ -27,7 +27,7 @@ SECRET_KEY = '3#3z=3$-0b^)$2guz2o^#i%5)oi99%i*@6s@#_r@o=q6)i+nrf'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['https://fullbright-dz.herokuapp.com/','localhost']
+ALLOWED_HOSTS = ['fullbright-dz.herokuapp.com/','localhost']
 
 
 # Application definition
