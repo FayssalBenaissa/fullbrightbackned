@@ -1,1 +1,2 @@
-web: gunicorn fullbright.wsgi
+web: gunicorn fullbright.wsgi --log-file - --log-level debug
+python manage.py collectstatic --noinput
